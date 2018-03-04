@@ -1,0 +1,27 @@
+#
+##             Description of each important command that is used frequently
+#
+ 
+                              ####### Tool 1 #####
+/*
+ *
+
+  Description
+  ============
+  - Search recursively starting from the pointed dir for the given pattern.
+
+  Command
+  =======
+  - grep -nr pattern dir
+  
+  Example
+  =======
+  - grep -nr "awesome" .
+
+ *
+ */
+
+                              ####### Tool 1 #####
+
+
+
